@@ -1,0 +1,44 @@
+/* QuizForm.css */
+.container {
+  color: white;
+  background-color: transparent;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.formContainer {
+  margin-top: 20px;
+}
+
+.questContainer {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+.textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.tableRow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
